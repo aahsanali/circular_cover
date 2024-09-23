@@ -1,4 +1,4 @@
-# cv
+# Circular Coverflow
 
 A new Flutter project.
 
