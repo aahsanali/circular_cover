@@ -25,11 +25,12 @@ Circular button menu will be initalize based on number of items passed in to men
 	];
 
 ```
-example:
 
-![circular button menu 1 ](/assets/icons/scr1.png)
+Example:
 
-![circular button menu 2 ](/assets/icons/scr1.png)
+<img src="/assets/scr1.png" width="200"> <img src="/assets/scr2.png" width="200">
+
+
 
 
 ## Getting Started with Flutter
